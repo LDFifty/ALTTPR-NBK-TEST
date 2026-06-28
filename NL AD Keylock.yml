@@ -1,6 +1,6 @@
 customizer: true
-goal_name: no logic keylock
-description: "No Logic Keysanity, but Big Keys are stuck on bosses and in the Moldorm 2 chest."
+goal_name: no logic true KL
+description: "No Logic Keysanity, but all big keys are stuck on the respective bosses' dungeon."
 forced_locations:
   - item: "BigKeyP1:1"
     locations:
