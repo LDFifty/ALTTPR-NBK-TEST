@@ -1,6 +1,6 @@
 customizer: true
 goal_name: no logic true KL
-description: "No Logic Keysanity, but all big keys are stuck on the respective bosses' dungeon."
+description: "No Logic Keysanity, but all big keys are stuck on their respective bosses."
 forced_locations:
   - item: "BigKeyP1:1"
     locations:
@@ -329,7 +329,7 @@ settings:
   mode: open
   name: no logic keylock
   notes: |
-    No Logic Keysanity, but Big Keys are stuck on bosses and in the Moldorm 2 chest.
+    No Logic Keysanity, but Big Keys are stuck on on their respective bosses.
   spoilers: "off"
   tournament: true
   weapons: randomized
