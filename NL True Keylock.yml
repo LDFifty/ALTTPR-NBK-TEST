@@ -327,7 +327,7 @@ settings:
   l: {}
   lang: en
   mode: open
-  name: no logic keylock
+  name: True No Logic Keylock
   notes: |
     No Logic Keysanity, but Big Keys are stuck on on their respective bosses.
   spoilers: "off"
